@@ -11,3 +11,4 @@ public class Utils {
     public static List<GioHang> manggiohang;
     public static User user_current = new User();
 }
+// tôi đã chỉnh sửa
