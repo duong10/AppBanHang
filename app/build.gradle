@@ -52,6 +52,4 @@ dependencies {
     implementation 'com.nex3z:notification-badge:1.0.4'
     //even bus : Giải quyết vấn đề hàm tính tổng giá sp nằm trong GioHangAdapter chứ ko nằm trong GioHangActivity
     implementation("org.greenrobot:eventbus:3.3.1")
-    //Gson (ho tro post db đơn hàng lên db(server))
-    implementation 'com.google.code.gson:gson:2.9.0'
 }
