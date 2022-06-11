@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AppBH/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/AppBH/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/AppBH/app/src/main/res/layout/activity_thanh_toan.xml" value="0.25" />
+        <entry key="..\:/AppBH/app/src/main/res/layout/item_dienthoai.xml" value="0.13768115942028986" />
         <entry key="..\:/Users/LAPTOP DELL/AndroidStudioProjects/AppBanHang/app/src/main/res/drawable/background_button.xml" value="0.1105" />
         <entry key="..\:/Users/LAPTOP DELL/AndroidStudioProjects/AppBanHang/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1505" />
         <entry key="..\:/Users/LAPTOP DELL/AndroidStudioProjects/AppBanHang/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.1505" />
