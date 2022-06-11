@@ -6,6 +6,7 @@ import retrofit2.http.Field;
 import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.GET;
 import retrofit2.http.POST;
+import vn.name.duong.appbanhang.model.DonHangModel;
 import vn.name.duong.appbanhang.model.LoaiSpModel;
 import vn.name.duong.appbanhang.model.SanPhamMoiModel;
 import vn.name.duong.appbanhang.model.User;
@@ -60,5 +61,11 @@ public interface ApiBanHang {
             @Field("diachi") String diachi,
             @Field("soluong") int soluong,
             @Field("chitiet") String chitiet
+    );
+//quyet32
+    @POST("xemdonhang.php")
+    @FormUrlEncoded
+    Observable<DonHangModel> xemDonHang(
+            @Field("iduser") int id
     );
 }
